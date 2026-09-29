@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "partners": "Đối tác",
+    "blog": "Tin tức",
+    "contact": "Liên hệ",
+    "portal": "Cổng khách hàng",
+    "login": "Đăng nhập",
+    "getStarted": "Bắt đầu"
+  },
+  "hero": {
+    "tagline": "VIAUS INVESTMENTS",
+    "title": "Kết nối Úc – Việt Nam",
+    "titleHighlight": "Kiến tạo giá trị tương lai",
+    "subtitle": "Kết nối công nghệ, năng lực sản xuất và các sản phẩm chất lượng từ Úc với những cơ hội phát triển tại thị trường Việt Nam.",
+    "cta": "Khám phá dịch vụ",
+    "ctaSecondary": "Tìm hiểu thêm",
+    "stats": {
+      "established": "Thành lập 2022",
+      "markets": "2 Thị trường",
+      "sectors": "5+ Lĩnh vực",
+      "partnerships": "Mạng lưới mở rộng"
+    }
+  },
+  "about": {
+    "sectionTag": "Về chúng tôi",
+    "title": "Cầu nối kinh doanh đáng tin cậy",
+    "titleHighlight": "giữa Úc và Việt Nam",
+    "description": "VIAUS INVESTMENTS được xây dựng với định hướng trở thành cầu nối kinh doanh đáng tin cậy giữa Úc và Việt Nam. Chúng tôi hợp tác với các nhà sản xuất, đối tác công nghệ, chủ sở hữu thương hiệu và hệ thống phân phối nhằm tìm kiếm cơ hội đầu tư, phát triển sản phẩm có tiềm năng thương mại và đưa sản phẩm tiếp cận thị trường.",
+    "description2": "VIAUS không chỉ đầu tư vốn mà hướng đến xây dựng quan hệ hợp tác lâu dài trên toàn chuỗi giá trị — từ công nghệ, phát triển sản phẩm đến sản xuất, xây dựng thương hiệu, tiếp cận thị trường, xuất nhập khẩu và phân phối.",
+    "vision": {
+      "title": "Tầm nhìn",
+      "text": "Trở thành nền tảng đầu tư và kết nối kinh doanh uy tín giữa Úc và Việt Nam. VIAUS hướng đến xây dựng một hệ sinh thái bền vững kết nối nguồn vốn – công nghệ – sản xuất – thương hiệu – thị trường giữa hai quốc gia."
+    },
+    "mission": {
+      "title": "Sứ mệnh",
+      "text": "Sứ mệnh của VIAUS là tìm kiếm những cơ hội có giá trị và chuyển hóa thành các dự án kinh doanh bền vững thông qua đầu tư, chuyển giao công nghệ, hợp tác sản xuất và phát triển thị trường."
+    },
+    "values": {
+      "title": "Giá trị cốt lõi",
+      "integrity": {
+        "title": "Chính trực",
+        "text": "Chúng tôi xây dựng mọi mối quan hệ trên nền tảng minh bạch, trách nhiệm và niềm tin."
+      },
+      "quality": {
+        "title": "Chất lượng",
+        "text": "Chất lượng là tiêu chí trọng tâm trong lựa chọn sản phẩm, công nghệ và đối tác."
+      },
+      "innovation": {
+        "title": "Đổi mới",
+        "text": "Chúng tôi chủ động tìm kiếm công nghệ, sản phẩm và mô hình kinh doanh có tiềm năng phát triển."
+      },
+      "partnership": {
+        "title": "Hợp tác",
+        "text": "Chúng tôi tin rằng thành công bền vững được xây dựng từ những mối quan hệ hợp tác lâu dài và cùng có lợi."
+      },
+      "sustainable": {
+        "title": "Giá trị bền vững",
+        "text": "Chúng tôi ưu tiên những cơ hội có khả năng tạo ra giá trị lâu dài cho doanh nghiệp, đối tác và người tiêu dùng."
+      }
+    }
+  },
+  "services": {
+    "sectionTag": "Lĩnh vực hoạt động",
+    "title": "Các lĩnh vực",
+    "titleHighlight": "chuyên môn",
+    "subtitle": "Chúng tôi đầu tư và phát triển các dự án trong nhiều lĩnh vực, tận dụng thế mạnh của cả hai thị trường Úc và Việt Nam.",
+    "items": {
+      "investment": {
+        "title": "Đầu tư & Phát triển kinh doanh",
+        "description": "Tìm kiếm, đánh giá và đầu tư vào các cơ hội kinh doanh tiềm năng tại Úc và Việt Nam, đặc biệt là những dự án có khả năng khai thác thế mạnh của cả hai thị trường."
+      },
+      "pharma": {
+        "title": "Chuyển giao công nghệ Dược – Mỹ phẩm – Dược mỹ phẩm",
+        "description": "Kết nối chủ sở hữu công nghệ, nhà sản xuất và đối tác thương mại nhằm phát triển sản phẩm và chuyển giao công nghệ trong lĩnh vực dược phẩm, mỹ phẩm và dược mỹ phẩm."
+      },
+      "manufacturing": {
+        "title": "Sản xuất nhượng quyền & Gia công",
+        "description": "Hợp tác với các nhà sản xuất phù hợp để triển khai gia công, sản xuất nhượng quyền và phát triển sản phẩm thương hiệu riêng theo nhu cầu từng thị trường."
+      },
+      "brand": {
+        "title": "Xây dựng & Phát triển thương hiệu",
+        "description": "Từ ý tưởng sản phẩm đến định vị thị trường, VIAUS đồng hành cùng đối tác trong việc xây dựng, phát triển và thương mại hóa thương hiệu."
+      },
+      "trade": {
+        "title": "Xuất nhập khẩu Úc – Việt Nam",
+        "description": "VIAUS thúc đẩy thương mại hai chiều giữa Úc và Việt Nam, tập trung vào: Dược phẩm, Mỹ phẩm, Dược mỹ phẩm, Nông sản, Thực phẩm và Hàng tiêu dùng."
+      }
+    }
+  },
+  "businessModel": {
+    "sectionTag": "Phương thức",
+    "title": "Chuỗi giá trị",
+    "titleHighlight": "toàn diện",
+    "subtitle": "VIAUS kết nối mọi bước trong hành trình kinh doanh giữa Úc và Việt Nam.",
+    "steps": {
+      "investment": "Đầu tư",
+      "technology": "Công nghệ",
+      "manufacturing": "Sản xuất",
+      "brand": "Thương hiệu",
+      "trade": "Xuất nhập khẩu",
+      "market": "Thị trường"
+    },
+    "australia": "Úc",
+    "vietnam": "Việt Nam",
+    "connector": "VIAUS"
+  },
+  "whyViaus": {
+    "sectionTag": "Tại sao chọn VIAUS?",
+    "title": "Năng lực từ Úc.",
+    "titleHighlight": "Cơ hội tại Việt Nam.",
+    "subtitle": "Một đối tác kết nối.",
+    "description": "Lợi thế của VIAUS đến từ sự am hiểu và khả năng kết nối nguồn lực giữa hai thị trường Úc và Việt Nam. Thông qua việc kết nối công nghệ – sản xuất – sản phẩm – thương hiệu – phân phối, chúng tôi hướng đến giúp đối tác rút ngắn hành trình từ cơ hội đầu tư đến một dự án kinh doanh có giá trị thực tế.",
+    "features": {
+      "dualMarket": {
+        "title": "Chuyên gia hai thị trường",
+        "text": "Am hiểu sâu sắc môi trường kinh doanh tại cả Úc và Việt Nam."
+      },
+      "fullChain": {
+        "title": "Chuỗi giá trị toàn diện",
+        "text": "Từ công nghệ đến thị trường, chúng tôi bao phủ mọi bước trong hành trình."
+      },
+      "quality": {
+        "title": "Tập trung chất lượng",
+        "text": "Tiêu chuẩn và đảm bảo chất lượng Úc trong mọi dự án."
+      },
+      "network": {
+        "title": "Mạng lưới chiến lược",
+        "text": "Kết nối vững mạnh với nhà sản xuất, phân phối và đối tác."
+      }
+    }
+  },
+  "partners": {
+    "sectionTag": "Đối tác & Mạng lưới",
+    "title": "Quan hệ đối tác",
+    "titleHighlight": "đáng tin cậy",
+    "subtitle": "Chúng tôi hợp tác với các đơn vị hàng đầu tại Úc và Việt Nam để mang lại kết quả xuất sắc.",
+    "cta": "Trở thành đối tác"
+  },
+  "blog": {
+    "sectionTag": "Tin tức",
+    "title": "Phân tích",
+    "titleHighlight": "thị trường",
+    "subtitle": "Cập nhật những phân tích mới nhất về cơ hội kinh doanh Úc – Việt Nam.",
+    "readMore": "Đọc thêm",
+    "viewAll": "Xem tất cả bài viết",
+    "categories": {
+      "all": "Tất cả",
+      "market": "Phân tích thị trường",
+      "pharma": "Dược phẩm",
+      "trade": "Thương mại & Xuất khẩu",
+      "technology": "Công nghệ"
+    }
+  },
+  "contact": {
+    "sectionTag": "Liên hệ",
+    "title": "Bắt đầu",
+    "titleHighlight": "cuộc trò chuyện",
+    "subtitle": "Dù bạn đang tìm kiếm cơ hội đầu tư hay đối tác kinh doanh giữa Úc và Việt Nam, chúng tôi rất mong được lắng nghe từ bạn.",
+    "form": {
+      "name": "Họ và tên",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "company": "Tên công ty",
+      "inquiryType": "Loại yêu cầu",
+      "inquiryTypes": {
+        "investment": "Cơ hội đầu tư",
+        "partnership": "Hợp tác kinh doanh",
+        "consultation": "Yêu cầu tư vấn",
+        "meeting": "Đặt lịch gặp",
+        "other": "Khác"
+      },
+      "message": "Nội dung tin nhắn",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi...",
+      "success": "Cảm ơn bạn! Chúng tôi sẽ phản hồi sớm nhất.",
+      "error": "Đã có lỗi xảy ra. Vui lòng thử lại."
+    },
+    "info": {
+      "address": "59 The Crescent, Port Melbourne, VIC 3207, Australia",
+      "phone": "+61 420 781 188",
+      "email": "viaus.investments@gmail.com",
+      "hours": "Thứ Hai - Thứ Sáu: 9:00 - 17:00 (AEST)"
+    }
+  },
+  "portal": {
+    "login": {
+      "title": "Chào mừng trở lại",
+      "subtitle": "Đăng nhập để truy cập bảng điều khiển đầu tư",
+      "email": "Địa chỉ email",
+      "password": "Mật khẩu",
+      "rememberMe": "Ghi nhớ đăng nhập",
+      "forgotPassword": "Quên mật khẩu?",
+      "signIn": "Đăng nhập",
+      "noAccount": "Chưa có tài khoản?",
+      "register": "Đăng ký tại đây"
+    },
+    "register": {
+      "title": "Tạo tài khoản",
+      "subtitle": "Tham gia cổng khách hàng VIAUS Investments",
+      "firstName": "Tên",
+      "lastName": "Họ",
+      "email": "Địa chỉ email",
+      "phone": "Số điện thoại",
+      "company": "Tên công ty",
+      "password": "Mật khẩu",
+      "confirmPassword": "Xác nhận mật khẩu",
+      "terms": "Tôi đồng ý với Điều khoản dịch vụ và Chính sách bảo mật",
+      "register": "Tạo tài khoản",
+      "hasAccount": "Đã có tài khoản?",
+      "login": "Đăng nhập tại đây"
+    },
+    "dashboard": {
+      "title": "Bảng điều khiển",
+      "welcome": "Chào mừng trở lại",
+      "overview": "Tổng quan danh mục",
+      "projects": "Dự án đang hoạt động",
+      "documents": "Tài liệu",
+      "messages": "Tin nhắn"
+    }
+  },
+  "footer": {
+    "description": "Kết nối công nghệ, năng lực sản xuất và các sản phẩm chất lượng từ Úc với những cơ hội phát triển tại thị trường Việt Nam.",
+    "quickLinks": "Liên kết nhanh",
+    "services": "Dịch vụ",
+    "contact": "Thông tin liên hệ",
+    "newsletter": {
+      "title": "Cập nhật tin tức",
+      "subtitle": "Đăng ký nhận bản tin mới nhất từ chúng tôi.",
+      "placeholder": "Nhập email của bạn",
+      "subscribe": "Đăng ký"
+    },
+    "copyright": "© {year} VIAUS INVESTMENTS PTY LTD. Bảo lưu mọi quyền.",
+    "abn": "ABN: 53 841 774 176 | ACN: 663.418.460"
+  },
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "getStarted": "Bắt đầu",
+    "contactUs": "Liên hệ",
+    "readMore": "Đọc thêm",
+    "viewAll": "Xem tất cả",
+    "backToHome": "Về trang chủ",
+    "loading": "Đang tải..."
+  }
+}

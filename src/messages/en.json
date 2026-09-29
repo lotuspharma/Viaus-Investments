@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "partners": "Partners",
+    "blog": "Insights",
+    "contact": "Contact",
+    "portal": "Client Portal",
+    "login": "Sign In",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "tagline": "VIAUS INVESTMENTS",
+    "title": "Bridging Australia & Vietnam",
+    "titleHighlight": "Building Future Value",
+    "subtitle": "Connecting Australian capabilities, technologies and quality products with opportunities in the Vietnamese market.",
+    "cta": "Explore Our Services",
+    "ctaSecondary": "Learn More",
+    "stats": {
+      "established": "Est. 2022",
+      "markets": "2 Markets",
+      "sectors": "5+ Sectors",
+      "partnerships": "Growing Network"
+    }
+  },
+  "about": {
+    "sectionTag": "About Us",
+    "title": "A Trusted Business Bridge",
+    "titleHighlight": "Between Australia & Vietnam",
+    "description": "VIAUS INVESTMENTS was established with a vision to become a trusted business bridge between Australia and Vietnam. We work with manufacturers, technology partners, brand owners and distributors to identify promising opportunities, develop commercially viable products and bring them to market.",
+    "description2": "Our approach goes beyond investment. We aim to create long-term partnerships covering the entire value chain — from technology and product development to manufacturing, branding, market entry, import–export and distribution.",
+    "vision": {
+      "title": "Our Vision",
+      "text": "To become a trusted Australia–Vietnam investment and business platform. Our vision is to build a sustainable ecosystem connecting capital, technology, manufacturing, brands and markets between Australia and Vietnam."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "Our mission is to identify valuable opportunities and transform them into sustainable businesses through investment, technology transfer, manufacturing partnerships and market development."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "integrity": {
+        "title": "Integrity",
+        "text": "We build relationships based on transparency, responsibility and trust."
+      },
+      "quality": {
+        "title": "Quality",
+        "text": "Quality is at the heart of the products, technologies and partnerships we pursue."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "text": "We actively seek technologies, products and business models with strong development potential."
+      },
+      "partnership": {
+        "title": "Partnership",
+        "text": "We believe sustainable success is created through long-term and mutually beneficial partnerships."
+      },
+      "sustainable": {
+        "title": "Sustainable Value",
+        "text": "We focus on opportunities that create lasting value for businesses, partners and consumers."
+      }
+    }
+  },
+  "services": {
+    "sectionTag": "What We Do",
+    "title": "Our Areas of",
+    "titleHighlight": "Expertise",
+    "subtitle": "We invest in and develop projects across multiple sectors, leveraging the strengths of both Australian and Vietnamese markets.",
+    "items": {
+      "investment": {
+        "title": "Investment & Business Development",
+        "description": "We identify, evaluate and invest in promising business opportunities in Australia and Vietnam, with a focus on projects that can leverage the strengths of both markets."
+      },
+      "pharma": {
+        "title": "Pharmaceutical & Cosmeceutical Technology Transfer",
+        "description": "We connect technology owners, manufacturers and commercial partners to facilitate product development and technology transfer in pharmaceuticals, cosmetics and cosmeceuticals."
+      },
+      "manufacturing": {
+        "title": "Contract Manufacturing & Licensing",
+        "description": "We develop partnerships with qualified manufacturers for contract manufacturing, licensed production and private-label projects tailored to target markets."
+      },
+      "brand": {
+        "title": "Brand Development",
+        "description": "From product concept to market positioning, we work with partners to create and develop brands with long-term commercial potential."
+      },
+      "trade": {
+        "title": "Import & Export",
+        "description": "We facilitate trade between Australia and Vietnam with a focus on pharmaceuticals, cosmetics, cosmeceuticals, agricultural products, food and consumer products."
+      }
+    }
+  },
+  "businessModel": {
+    "sectionTag": "Our Approach",
+    "title": "End-to-End",
+    "titleHighlight": "Value Chain",
+    "subtitle": "VIAUS connects every step of the business journey between Australia and Vietnam.",
+    "steps": {
+      "investment": "Investment",
+      "technology": "Technology",
+      "manufacturing": "Manufacturing",
+      "brand": "Brand",
+      "trade": "Trade",
+      "market": "Market"
+    },
+    "australia": "Australia",
+    "vietnam": "Vietnam",
+    "connector": "VIAUS"
+  },
+  "whyViaus": {
+    "sectionTag": "Why VIAUS?",
+    "title": "Australia Expertise.",
+    "titleHighlight": "Vietnam Opportunities.",
+    "subtitle": "One Trusted Partner.",
+    "description": "Our strength lies in understanding the opportunities and business environments of both Australia and Vietnam. By connecting technology, manufacturing, products, brands and distribution, VIAUS aims to help partners shorten the journey from an opportunity to a commercially viable business.",
+    "features": {
+      "dualMarket": {
+        "title": "Dual Market Expertise",
+        "text": "Deep understanding of both Australian and Vietnamese business environments."
+      },
+      "fullChain": {
+        "title": "Full Value Chain",
+        "text": "From technology to market entry, we cover every step of the journey."
+      },
+      "quality": {
+        "title": "Quality Focus",
+        "text": "Australian standards and quality assurance in every project."
+      },
+      "network": {
+        "title": "Strategic Network",
+        "text": "Strong connections with manufacturers, distributors and partners."
+      }
+    }
+  },
+  "partners": {
+    "sectionTag": "Partners & Network",
+    "title": "Trusted",
+    "titleHighlight": "Partnerships",
+    "subtitle": "We collaborate with industry leaders across Australia and Vietnam to deliver exceptional results.",
+    "cta": "Become a Partner"
+  },
+  "blog": {
+    "sectionTag": "Insights",
+    "title": "Market",
+    "titleHighlight": "Intelligence",
+    "subtitle": "Stay informed with our latest analysis on Australia-Vietnam business opportunities.",
+    "readMore": "Read More",
+    "viewAll": "View All Articles",
+    "categories": {
+      "all": "All",
+      "market": "Market Analysis",
+      "pharma": "Pharmaceuticals",
+      "trade": "Trade & Export",
+      "technology": "Technology"
+    }
+  },
+  "contact": {
+    "sectionTag": "Get in Touch",
+    "title": "Start a",
+    "titleHighlight": "Conversation",
+    "subtitle": "Whether you're exploring investment opportunities or looking for a business partner between Australia and Vietnam, we'd love to hear from you.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "inquiryType": "Inquiry Type",
+      "inquiryTypes": {
+        "investment": "Investment Opportunity",
+        "partnership": "Business Partnership",
+        "consultation": "Consultation Request",
+        "meeting": "Schedule a Meeting",
+        "other": "Other"
+      },
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! We'll be in touch shortly.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "address": "59 The Crescent, Port Melbourne, VIC 3207, Australia",
+      "phone": "+61 420 781 188",
+      "email": "viaus.investments@gmail.com",
+      "hours": "Mon - Fri: 9:00 AM - 5:00 PM (AEST)"
+    }
+  },
+  "portal": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to access your investment dashboard",
+      "email": "Email Address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In",
+      "noAccount": "Don't have an account?",
+      "register": "Register here"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join VIAUS Investments client portal",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "terms": "I agree to the Terms of Service and Privacy Policy",
+      "register": "Create Account",
+      "hasAccount": "Already have an account?",
+      "login": "Sign in here"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome back",
+      "overview": "Portfolio Overview",
+      "projects": "Active Projects",
+      "documents": "Documents",
+      "messages": "Messages"
+    }
+  },
+  "footer": {
+    "description": "Connecting Australian capabilities, technologies and quality products with opportunities in the Vietnamese market.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact Info",
+    "newsletter": {
+      "title": "Stay Updated",
+      "subtitle": "Subscribe to our newsletter for the latest insights.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe"
+    },
+    "copyright": "© {year} VIAUS INVESTMENTS PTY LTD. All rights reserved.",
+    "abn": "ABN: 53 841 774 176 | ACN: 663.418.460"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "backToHome": "Back to Home",
+    "loading": "Loading..."
+  }
+}
